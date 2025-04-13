@@ -23,6 +23,12 @@ This project implements **SRResNet** for single image super-resolution, aiming t
 ## Model graph
 ![srresnet](https://github.com/user-attachments/assets/1a46d42e-5ee8-4c30-8779-8435980e4cf6)
 
+## Residual Block
+![image](https://github.com/user-attachments/assets/2c388469-bea4-42f5-9112-10664006cb3b)
+
+## Upsampling block
+![image](https://github.com/user-attachments/assets/0b1529c6-6c99-4709-a9ae-d05bb7189d95)
+
 ---
 
 ## 📁 Project Structure:
