@@ -20,6 +20,9 @@ This project implements **SRResNet** for single image super-resolution, aiming t
 - Explore improved **content loss** using intermediate VGG layers
 - Investigate impact of different **upsampling techniques** (e.g., sub-pixel convolution vs transposed convolution)
 
+## Model graph
+![srresnet](https://github.com/user-attachments/assets/1a46d42e-5ee8-4c30-8779-8435980e4cf6)
+
 ---
 
 ## 📁 Project Structure:
