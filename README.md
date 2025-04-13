@@ -23,9 +23,11 @@ This project implements **SRResNet** for single image super-resolution, aiming t
 ---
 
 ## 📁 Project Structure:
-├── models/ # SRResNet model definitions
-├── data/ # Dataset loading and preprocessing
-├── utils/ # Helper functions (metrics, visualization, etc.)
-├── train.py # Training script
-├── evaluate.py # Evaluation script
-└── README.md
+
+```bash
+├── models/             # SRResNet model definitions  
+├── data/               # Dataset loading and preprocessing  
+├── utils/              # Helper functions (metrics, visualization, etc.)  
+├── train.py            # Training script  
+├── evaluate.py         # Evaluation script  
+└── README.md           # Project documentation
