@@ -85,10 +85,10 @@ def total_loss(y_true, y_pred, perceptual_model, lambda_mse=1.0, lambda_perceptu
 
 ## Example usgae
 
-from losses import total_loss, VGGPerceptualLoss
+# from losses import total_loss, VGGPerceptualLoss
 
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-perceptual_model = VGGPerceptualLoss(device=device)
+# device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+# perceptual_model = VGGPerceptualLoss(device=device)
 
-loss = total_loss(hr_images, sr_images, perceptual_model)
+# loss = total_loss(hr_images, sr_images, perceptual_model)
 
