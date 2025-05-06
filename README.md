@@ -1,5 +1,7 @@
 # Image-Super-Resolution-using-SRResNet
 
+Kaggle Notebook (Implementation) : https://www.kaggle.com/code/shreyash1110/srresnet-demo
+
 This project implements **SRResNet** for single image super-resolution, aiming to reconstruct high-resolution (HR) images from their low-resolution (LR) counterparts using deep convolutional neural networks.
 
 ---
@@ -31,12 +33,3 @@ This project implements **SRResNet** for single image super-resolution, aiming t
 
 ---
 
-## 📁 Project Structure:
-
-```bash
-├── models/             # SRResNet model definitions  
-├── data/               # Dataset loading and preprocessing  
-├── utils/              # Helper functions (metrics, visualization, etc.)  
-├── train.py            # Training script  
-├── evaluate.py         # Evaluation script  
-└── README.md           # Project documentation
